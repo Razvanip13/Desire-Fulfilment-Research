@@ -1,2 +1,3 @@
 # Desire-Fulfilment-Research
-My research project in the first semester of the third year. Paperwork is under review
+My research project in the first semester of the third year. Paperwork is under review.
+References to the paperwork and the related work will be added after publishing. 
